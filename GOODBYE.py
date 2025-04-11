@@ -14,10 +14,6 @@
  #   print(len(e.args))
 
 
- #ابراهيم## جالس يكتب التقييم
-
-
-#صح#### تشوفينه كيف منحاس
 
 #import calendar
 #calendar.setfirstweekday(calendar.SUNDAY)
